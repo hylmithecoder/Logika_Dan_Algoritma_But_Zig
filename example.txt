@@ -1,0 +1,2 @@
+Hello, Zig file system example!
+This is a second line.
